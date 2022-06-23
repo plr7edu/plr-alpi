@@ -55,3 +55,4 @@ xdman
 rofi
 mugshot
 starship
+gnome-keyring
