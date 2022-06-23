@@ -1,0 +1,2 @@
+kvantum-theme-materia
+kvantum-theme-qogir-git

@@ -1,0 +1,34 @@
+#!/bin/bash
+
+config_dir=/etc/lightdm/
+
+tput bold
+echo -e "\e[1;34mCopy lightdm config files...\e[1;37m";
+tput sgr0
+
+#Backup orginal config
+cd $config_dir
+cp lightdm.conf lightdm.conf.bak && cp lightdm-gtk-greeter.conf lightdm-gtk-greeter.conf.bak
+echo "Backup Complete."
+echo " "
+
+cd -
+
+
+#Copy & replace file
+echo "Copy & replace config files..."
+cp -if  config/* $config_dir
+echo " "
+
+#Copy lightdm user data folder
+cp -rf lightdm-images /usr/share
+echo " "
+echo "done."
+
+
+
+
+
+
+
+

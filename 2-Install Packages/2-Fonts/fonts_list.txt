@@ -1,0 +1,7 @@
+apple-fonts
+montserrat-ttf
+noto-fonts
+noto-fonts-emoji
+terminus-font
+ttf-fira-code
+ttf-ms-fonts

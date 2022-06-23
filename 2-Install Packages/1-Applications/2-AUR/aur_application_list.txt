@@ -1,0 +1,4 @@
+gtkhash
+puddletag
+qdirstat
+thunar-megasync-bin
