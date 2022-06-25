@@ -31,7 +31,6 @@ menulibre
 nextcloud-client
 obsidian
 onlyoffice-bin
-p7zip-gui
 pace
 puddletag
 qbittorrent
