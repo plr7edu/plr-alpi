@@ -56,3 +56,9 @@ rofi
 mugshot
 starship
 gnome-keyring
+arcolinux-hblock-git
+hardinfo-gtk3
+gufw
+
+
+

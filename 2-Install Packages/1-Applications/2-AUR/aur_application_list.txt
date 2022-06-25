@@ -3,3 +3,4 @@ puddletag
 qdirstat
 thunar-megasync-bin
 ventoy-bin
+balena-etcher
