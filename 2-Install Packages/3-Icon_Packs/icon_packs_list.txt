@@ -1,3 +1,4 @@
 papirus-icon-theme
 tela-icon-theme
 flat-remix-git
+yaru-icon-theme
