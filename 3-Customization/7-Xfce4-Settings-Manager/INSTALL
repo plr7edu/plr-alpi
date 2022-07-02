@@ -3,7 +3,7 @@
 config_dir=/usr/share/applications/
 
 tput bold
-echo -e "\e[1;34mBackup origianl desktop files ...\e[1;37m";
+echo -e "\e[1;34mBackup original desktop files ...\e[1;37m";
 tput sgr0
 
 #Backup orginal config
