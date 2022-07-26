@@ -35,6 +35,8 @@ rofi
 starship
 gnome-keyring
 gufw
-
+gvfs-gphoto2
+android-file-transfer
+veracrypt
 
 
