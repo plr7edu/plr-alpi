@@ -3,7 +3,6 @@ puddletag
 qdirstat
 thunar-megasync-bin
 ventoy-bin
-balena-etcher
 p7zip-gui
 cryptomator-bin
 drawio-desktop-bin

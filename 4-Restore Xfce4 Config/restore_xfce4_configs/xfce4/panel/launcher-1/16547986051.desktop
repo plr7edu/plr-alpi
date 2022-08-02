@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Archlinux Logout
+Comment=Arcolinux logout application
+Exec=archlinux-logout
+Icon=/home/plr/.icons/plr-logout.png
+Path=
+Terminal=false
+StartupNotify=false

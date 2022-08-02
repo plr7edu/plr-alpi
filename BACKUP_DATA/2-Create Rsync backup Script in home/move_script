@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd script 
+cp RSYNC-BACKUP-DATA /home/plr

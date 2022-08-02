@@ -1,0 +1,31 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/plr/Desktop/MY-DATA]
+row=0
+col=0
+
+[/home/plr/Desktop/arcolinuxd-panel.tar.bz2]
+row=1
+col=1
+
+[/home/plr/Desktop/Kali Inspired Desktop Theme]
+row=1
+col=0
+
+[/home/plr/Desktop/dotfiles]
+row=3
+col=0
+
+[/home/plr/Desktop/Lightdm Config Backup]
+row=0
+col=1
+
+[/home/plr/Desktop/Arco Linux Post Installation]
+row=0
+col=11
+
+[/home/plr/Desktop/Other packages]
+row=2
+col=0
+
