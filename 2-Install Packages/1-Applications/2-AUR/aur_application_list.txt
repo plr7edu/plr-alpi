@@ -1,7 +1,6 @@
 gtkhash
 puddletag
 qdirstat
-thunar-megasync-bin
 ventoy-bin
 p7zip-gui
 cryptomator-bin
