@@ -1,5 +1,5 @@
 favorites=arcolinux-welcome-app.desktop,archlinux-tweak-tool.desktop,thunar.desktop,xfce4-terminal.desktop
-recent=org.gnome.FontManager.desktop,grsync.desktop,org.kde.filelight.desktop,7zFM.desktop,plank.desktop,io.github.mhogomchungu.sirikali.desktop,galculator.desktop,obsidian.desktop,kvantummanager.desktop,bitwarden.desktop
+recent=xfce4-terminal.desktop,org.cryptomator.Cryptomator.desktop,7zFM.desktop,github-desktop.desktop,bitwarden.desktop,ghostwriter.desktop,google-chrome.desktop,org.gnome.FontManager.desktop,grsync.desktop
 button-title=
 button-icon=plr-arcolinux-white
 button-single-row=false

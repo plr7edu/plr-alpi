@@ -663,7 +663,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/plr/Pictures/MY Sync Wallpapers/Consuming_the_light_side.jpg"/>
+          <property name="last-image" type="string" value="/home/plr/Pictures/MY-WALL/ivan-jevtic-B5EJm5V5gJs-unsplash.jpg"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-period" type="int" value="3"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>

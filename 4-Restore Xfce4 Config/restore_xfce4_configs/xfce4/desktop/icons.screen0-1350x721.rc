@@ -1,31 +1,27 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/plr/Desktop/test]
-row=1
-col=8
-
-[/home/plr/Desktop/Test]
+[/home/plr/Desktop/Test Linux Applications List]
 row=0
 col=12
 
+[/home/plr/Desktop/For Syncthing Main Server]
+row=1
+col=12
+
 [AEDAECF4DAECBA2B]
+row=0
+col=1
+
+[Trash]
 row=1
 col=0
 
-[0A68-05F9]
-row=4
-col=0
-
-[Trash]
-row=3
-col=0
-
 [/]
-row=2
+row=0
 col=0
 
 [/home/plr]
 row=0
-col=0
+col=3
 

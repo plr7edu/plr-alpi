@@ -74,6 +74,9 @@
       </property>
       <property name="icon-size" type="int" value="22"/>
       <property name="known-items" type="array">
+        <value type="string" value="stacer"/>
+        <value type="string" value="pcloud1"/>
+        <value type="string" value="Icedrive1"/>
         <value type="string" value="ulauncher"/>
         <value type="string" value="SiriKali"/>
         <value type="string" value="nuclear1"/>
@@ -89,6 +92,7 @@
         <value type="string" value="strawberry"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “plr_wifi” active: plr_wifi (58%)"/>
         <value type="string" value="wi-fi network connection “plr_wifi” active: plr_wifi (68%)"/>
         <value type="string" value="wi-fi network connection “plr_wifi” active: plr_wifi (67%)"/>
         <value type="string" value="wi-fi network connection “plr_wifi” active: plr_wifi (65%)"/>
@@ -134,7 +138,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="blacklisted-players" type="string" value=""/>
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance11455;chromium.instance12526;firefox.instance11804;firefox.instance12079;firefox.instance1242;firefox.instance12451;firefox.instance1312;firefox.instance1330;firefox.instance1366;firefox.instance1369;firefox.instance1381;firefox.instance1388;firefox.instance1395;firefox.instance1397;firefox.instance1399;firefox.instance1402;firefox.instance1405;firefox.instance1416;firefox.instance1417;firefox.instance1431;firefox.instance1433;firefox.instance14333;firefox.instance1445;firefox.instance1449;firefox.instance1450;firefox.instance1453;firefox.instance1456;firefox.instance1473;firefox.instance1497;firefox.instance1502;firefox.instance1517;firefox.instance1590;firefox.instance1701;firefox.instance1716;firefox.instance1725;firefox.instance1760;firefox.instance1815;firefox.instance1884;firefox.instance2088;firefox.instance2103;firefox.instance2343;firefox.instance2509;firefox.instance27881;firefox.instance3048;firefox.instance3297;firefox.instance3452;firefox.instance36755;firefox.instance4326;firefox.instance4482;firefox.instance57763;firefox.instance5811;firefox.instance6111;firefox.instance6629;firefox.instance795;firefox.instance8167;firefox.instance830;firefox.instance834;firefox.instance843;firefox.instance844;firefox.instance857;nuclear;strawberry;vlc"/>
+      <property name="mpris-players" type="string" value="chromium.instance11455;chromium.instance12526;chromium.instance22342;firefox.instance11804;firefox.instance12079;firefox.instance1242;firefox.instance12451;firefox.instance1312;firefox.instance1330;firefox.instance1366;firefox.instance1369;firefox.instance1381;firefox.instance1388;firefox.instance1395;firefox.instance1397;firefox.instance1399;firefox.instance1402;firefox.instance1405;firefox.instance1416;firefox.instance1417;firefox.instance1419;firefox.instance1431;firefox.instance1433;firefox.instance14333;firefox.instance1445;firefox.instance1447;firefox.instance1449;firefox.instance1450;firefox.instance1453;firefox.instance1456;firefox.instance1473;firefox.instance1497;firefox.instance1502;firefox.instance1506;firefox.instance1517;firefox.instance1590;firefox.instance1701;firefox.instance1716;firefox.instance1725;firefox.instance1760;firefox.instance1815;firefox.instance1874;firefox.instance1884;firefox.instance1957;firefox.instance2088;firefox.instance2103;firefox.instance2343;firefox.instance2509;firefox.instance27881;firefox.instance3048;firefox.instance3297;firefox.instance3452;firefox.instance36755;firefox.instance4326;firefox.instance4482;firefox.instance5167;firefox.instance5360;firefox.instance57763;firefox.instance5811;firefox.instance6111;firefox.instance6629;firefox.instance795;firefox.instance8167;firefox.instance830;firefox.instance834;firefox.instance843;firefox.instance844;firefox.instance857;nuclear;strawberry;vlc"/>
       <property name="show-notifications" type="bool" value="true"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
