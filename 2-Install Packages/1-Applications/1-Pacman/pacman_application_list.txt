@@ -41,4 +41,5 @@ veracrypt
 plank
 galculator
 bleachbit
+gnome-disk-utility
 
