@@ -23,3 +23,4 @@ mugshot
 arcolinux-hblock-git
 devilspie2
 github-desktop-bin
+marktext-bin
