@@ -7,5 +7,5 @@ rsync -av Pictures/ ../../../../../home/plr/Pictures/ &&
 rsync -av Videos/ ../../../../../home/plr/Videos/ &&
 rsync -av dotfiles_backup  ../../../../../home/plr/ &&
 rsync -av Repo_backup ../../../../../home/plr/ &&
-rsync -av Applications/ ../../../../../home/plr/Applications/ &&
+rsync -av Applications/ ../../../../../home/plr/Applications/ 
 
