@@ -23,7 +23,7 @@ cp -R dconf/ gtk-3.0/ Thunar/ xfce4/ ../Repo/plr-alpi/4-Restore\ Xfce4\ Config/r
 
 #Insert a backup-date txt file
 cd ../Repo/plr-alpi/4-Restore\ Xfce4\ Config/restore_xfce4_configs
-touch "backup-date_-$(date +%F).txt"
+date > "Backup_time=$(date +"%Y_%m_%d_%I_%M_%p").txt"
 
 
 

@@ -9,6 +9,10 @@ col=12
 row=1
 col=12
 
+[2A8D-792E]
+row=2
+col=0
+
 [AEDAECF4DAECBA2B]
 row=0
 col=1
@@ -23,5 +27,5 @@ col=0
 
 [/home/plr]
 row=0
-col=3
+col=2
 
