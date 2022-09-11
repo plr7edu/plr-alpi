@@ -42,4 +42,6 @@ plank
 galculator
 bleachbit
 gnome-disk-utility
+micro
+signal-desktop
 
