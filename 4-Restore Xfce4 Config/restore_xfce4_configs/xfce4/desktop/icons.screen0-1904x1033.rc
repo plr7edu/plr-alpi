@@ -1,41 +1,21 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/plr/Desktop/MY-DATA290822.7z]
+[/home/plr/Desktop/Packages]
 row=0
-col=10
+col=17
+
+[/home/plr/Desktop/Ftp]
+row=0
+col=15
 
 [/home/plr/Desktop/Test Linux Applications List]
 row=0
 col=18
 
-[/home/plr/Desktop/ssh information show script]
-row=2
-col=2
-
-[/home/plr/Desktop/Today Tasks]
-row=3
-col=0
-
-[/home/plr/Desktop/Termux Guide]
-row=2
-col=1
-
-[/home/plr/Desktop/odpvec.zip.pcv]
-row=1
-col=13
-
-[/home/plr/Desktop/Ftp]
-row=2
-col=0
-
-[/home/plr/Desktop/MY-DATA280822]
-row=0
-col=11
-
 [/home/plr/Desktop/Android SSH]
-row=4
-col=0
+row=0
+col=16
 
 [AEDAECF4DAECBA2B]
 row=0
