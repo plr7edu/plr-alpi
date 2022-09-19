@@ -5,7 +5,7 @@ noto-fonts-emoji
 terminus-font
 ttf-fira-code
 ttf-ms-fonts
-ttf-nerd-fonts-hack-complete-git
+nerd-fonts-hack
 nerd-fonts-jetbrains-mono
 ttf-cascadia-code
 ttf-comic-mono-git
