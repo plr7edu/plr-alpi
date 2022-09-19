@@ -22,6 +22,7 @@
       <value type="string" value="nm-applet"/>
       <value type="string" value="Insync"/>
       <value type="string" value="MEGAsync"/>
+      <value type="string" value="Museeks"/>
       <value type="string" value="notify-send"/>
       <value type="string" value="org.gnome.Software"/>
       <value type="string" value="org.qbittorrent.qBittorrent"/>

@@ -107,13 +107,4 @@
 	<other-files/>
 	<text-files/>
 </action>
-<action>
-	<icon>plr-gitahead</icon>
-	<name>Open with gitahead</name>
-	<unique-id>1587287434852027-1</unique-id>
-	<command>gitahead %F</command>
-	<description>Open with gitahead</description>
-	<patterns>*</patterns>
-	<directories/>
-</action>
 </actions>
