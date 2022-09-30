@@ -1,5 +1,5 @@
 favorites=arcolinux-welcome-app.desktop,archlinux-tweak-tool.desktop,firefox.desktop,thunar.desktop,xfce4-terminal.desktop
-recent=sublime_text.desktop,Alacritty.desktop,firefox.desktop,thunar.desktop
+recent=thunar.desktop,sublime_text.desktop,Alacritty.desktop,firefox.desktop
 button-title=ArcoLinux\ \ 
 button-icon=start-here-arcolinux
 button-single-row=false

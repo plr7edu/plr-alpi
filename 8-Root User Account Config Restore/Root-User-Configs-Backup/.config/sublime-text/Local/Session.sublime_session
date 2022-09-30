@@ -170,6 +170,96 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/root/Desktop/Root-User-Configs-Backup/2.RESTORE-CONFIGS",
+					"settings":
+					{
+						"buffer_size": 374,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAE0BAAAAAAAATgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATQEAAAAAAABNAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "cp"
+							},
+							"AgAAAE4BAAAAAAAATwEAAAAAAAAAAAAATwEAAAAAAABQAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATgEAAAAAAABOAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAFABAAAAAAAAUQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUAEAAAAAAABQAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"paste",
+							null,
+							"AQAAAFEBAAAAAAAAYAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUQEAAAAAAABRAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							14,
+							"left_delete",
+							null,
+							"DgAAAF8BAAAAAAAAXwEAAAAAAAABAAAAa14BAAAAAAAAXgEAAAAAAAABAAAAcl0BAAAAAAAAXQEAAAAAAAABAAAAYVwBAAAAAAAAXAEAAAAAAAABAAAARFsBAAAAAAAAWwEAAAAAAAABAAAAX1oBAAAAAAAAWgEAAAAAAAABAAAAZVkBAAAAAAAAWQEAAAAAAAABAAAAY1gBAAAAAAAAWAEAAAAAAAABAAAAblcBAAAAAAAAVwEAAAAAAAABAAAAYVYBAAAAAAAAVgEAAAAAAAABAAAAclUBAAAAAAAAVQEAAAAAAAABAAAAYVQBAAAAAAAAVAEAAAAAAAABAAAAZVMBAAAAAAAAUwEAAAAAAAABAAAAcFIBAAAAAAAAUgEAAAAAAAABAAAAcA",
+							"AQAAAAAAAAABAAAAYAEAAAAAAABgAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFEBAAAAAAAAUQEAAAAAAAABAAAAQQ",
+							"AQAAAAAAAAABAAAAUgEAAAAAAABSAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"paste_and_indent",
+							null,
+							"AQAAAFEBAAAAAAAAdwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUQEAAAAAAABRAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							3,
+							"left_delete",
+							null,
+							"AwAAAFABAAAAAAAAUAEAAAAAAAABAAAAIE8BAAAAAAAATwEAAAAAAAABAAAAcE4BAAAAAAAATgEAAAAAAAABAAAAYw",
+							"AQAAAAAAAAABAAAAUQEAAAAAAABRAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/root/Desktop/Root-User-Configs-Backup/3.BACKUP-CONFIGS-NOW",
+					"settings":
+					{
+						"buffer_size": 448,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -251,6 +341,65 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/root/Desktop/Root-User-Configs-Backup/2.RESTORE-CONFIGS",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 374,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										334,
+										334
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/root/Desktop/Root-User-Configs-Backup/3.BACKUP-CONFIGS-NOW",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 448,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],

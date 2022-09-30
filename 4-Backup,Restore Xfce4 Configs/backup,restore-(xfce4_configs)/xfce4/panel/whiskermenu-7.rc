@@ -1,5 +1,5 @@
 favorites=arcolinux-welcome-app.desktop,archlinux-tweak-tool.desktop,thunar.desktop,xfce4-terminal.desktop
-recent=sublime_text.desktop,org.gnome.FontManager.desktop,bitwarden.desktop,7zFM.desktop,xfce-ui-settings.desktop,ar.com.softwareperonista.Pace.desktop,spotify.desktop,com.github.johnfactotum.Foliate.desktop,xdman.desktop,gparted.desktop
+recent=archlinux-betterlockscreen.desktop,xfce4-terminal.desktop,7zFM.desktop,sublime_text.desktop,org.gnome.FontManager.desktop,bitwarden.desktop,xfce-ui-settings.desktop,ar.com.softwareperonista.Pace.desktop,spotify.desktop,com.github.johnfactotum.Foliate.desktop
 button-title=
 button-icon=plr-arcolinux-white
 button-single-row=false
