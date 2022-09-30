@@ -15,4 +15,5 @@ tput sgr0
 
 cd -
 cp -ir .config .bashrc .bash_profile ../../
+cp Appearance_Dark.png ../../Pictures/
 

@@ -54,6 +54,10 @@
 			},
 			"file_history":
 			[
+				"/home/plr/Repo/plr-alpi/8-Root User Account Config Restore/Root-User-Configs-Backup/3.BACKUP-CONFIGS-NOW",
+				"/home/plr/Repo/plr-alpi/8-Root User Account Config Restore/Root-User-Configs-Backup/2.RESTORE-CONFIGS",
+				"/root/Desktop/Root-User-Configs-Backup/1.BACKUP-ORIGINAL-CONFIGS",
+				"/root/Desktop/Root-User-Configs-Backup/2.RESTORE-CONFIGS",
 				"/root/Desktop/Root-User-Configs-Backup/3.BACKUP-CONFIGS",
 				"/root/Desktop/Root-User-Configs-Backup/3.BACKUP-NOW",
 				"/root/Desktop/Root-User-Configs-Backup/1.BACKUP-ORIGINAL",
@@ -166,25 +170,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/root/Desktop/Root-User-Configs-Backup/1.BACKUP-ORIGINAL-CONFIGS",
-					"settings":
-					{
-						"buffer_size": 301,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/root/Desktop/Root-User-Configs-Backup/2.RESTORE-CONFIGS",
-					"settings":
-					{
-						"buffer_size": 335,
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-					]
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -218,6 +203,10 @@
 			},
 			"file_history":
 			[
+				"/home/plr/Repo/plr-alpi/8-Root User Account Config Restore/Root-User-Configs-Backup/3.BACKUP-CONFIGS-NOW",
+				"/home/plr/Repo/plr-alpi/8-Root User Account Config Restore/Root-User-Configs-Backup/2.RESTORE-CONFIGS",
+				"/root/Desktop/Root-User-Configs-Backup/1.BACKUP-ORIGINAL-CONFIGS",
+				"/root/Desktop/Root-User-Configs-Backup/2.RESTORE-CONFIGS",
 				"/root/Desktop/Root-User-Configs-Backup/3.BACKUP-CONFIGS",
 				"/root/Desktop/Root-User-Configs-Backup/3.BACKUP-NOW",
 				"/root/Desktop/Root-User-Configs-Backup/1.BACKUP-ORIGINAL",
@@ -262,65 +251,6 @@
 				{
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/root/Desktop/Root-User-Configs-Backup/1.BACKUP-ORIGINAL-CONFIGS",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 301,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/root/Desktop/Root-User-Configs-Backup/2.RESTORE-CONFIGS",
-							"selected": true,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 335,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										199,
-										199
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"stack_multiselect": false,
-							"type": "text"
-						}
 					]
 				}
 			],
