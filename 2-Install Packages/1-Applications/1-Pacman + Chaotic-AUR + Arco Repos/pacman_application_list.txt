@@ -70,3 +70,4 @@ mugshot
 arcolinux-hblock-git
 marktext-bin
 mintstick-git
+dconf-editor
