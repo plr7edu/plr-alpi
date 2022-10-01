@@ -8,7 +8,7 @@ tput sgr0
 
 #Backup orginal config
 cd $config_dir
-sudo cp hardinfo.desktop hardinfo.desktop.bak && cp gparted.desktop gparted.desktop.bak
+sudo cp hardinfo.desktop hardinfo.desktop.bak && cp gparted.desktop gparted.desktop.bak && cp ca.desrt.dconf-editor.desktop ca.desrt.dconf-editor.desktop.bak 
 echo "Backup Complete."
 echo " "
 
