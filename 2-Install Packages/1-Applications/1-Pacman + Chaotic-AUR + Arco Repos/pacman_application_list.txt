@@ -72,3 +72,4 @@ marktext-bin
 mintstick-git
 dconf-editor
 yt-dlp
+deadbeef
