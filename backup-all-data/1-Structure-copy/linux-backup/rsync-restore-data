@@ -1,5 +1,6 @@
 #!/bin/bash
 
+rsync -av Desktop/ ../../../../../home/plr/Desktop/ &&
 rsync -av Documents/ ../../../../../home/plr/Documents/ &&
 rsync -av Downloads/ ../../../../../home/plr/Downloads/ &&
 rsync -av Music/ ../../../../../home/plr/Music/ &&

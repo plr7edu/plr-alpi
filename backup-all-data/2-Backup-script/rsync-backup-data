@@ -1,7 +1,8 @@
 #!/bin/bash
 
 rsync -av Applications/ /run/media/plr/DATA/linux-backup/Applications/ &&
-rsync -av Documents/ /run/media/plr/DATA/linux-backup/Docuemnts/ &&
+rsync -av Desktop/ /run/media/plr/DATA/linux-backup/Desktop/ &&
+rsync -av Documents/ /run/media/plr/DATA/linux-backup/Documents/ &&
 rsync -av Downloads/ /run/media/plr/DATA/linux-backup/Downloads/ &&
 rsync -av Music/ /run/media/plr/DATA/linux-backup/Music/ &&
 rsync -av Pictures/ /run/media/plr/DATA/linux-backup/Pictures/ &&
