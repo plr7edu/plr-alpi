@@ -1,18 +1,18 @@
-file:///share/public_files
 file:///home/plr/bin
+file:///share/public-files public-files-smb
 file:///home/plr/Applications
 file:///home/plr/dotfiles
 file:///home/plr/Documents/obsidian-vaults
-file:///home/plr/Documents/Syncthing%20Data
-file:///home/plr/Repo MY Repo
+file:///home/plr/Documents/Syncthing-data
+file:///home/plr/MY-repo
 file:///home/plr/Documents/Nextcloud
 file:///home/plr/Downloads/Megasync%20Downloads
-file:///home/plr/Documents/MY%20Linux%20Fonts
+file:///home/plr/Documents/MY-linux-fonts
 file:///home/plr/Downloads
 file:///home/plr/Documents
 file:///home/plr/Pictures
 file:///home/plr/Music
 file:///home/plr/Videos
-file:///home/plr/Downloads/FTP-SHARE-SERVER
-file:///home/plr/Downloads/repo_download
-file:///home/plr/Documents/MY-DATA
+file:///home/plr/Downloads/FTP-share-server
+file:///home/plr/Downloads/repo_download-test
+file:///home/plr/Documents/MY-data

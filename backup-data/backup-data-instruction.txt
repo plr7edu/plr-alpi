@@ -1,4 +1,0 @@
-1. Copy "linux-backup" Folder in backup-data/1-backup-folder-structure-copy/ to your backup Location.
-	
-	My Common Location = /run/media/plr/DATA/ 
-

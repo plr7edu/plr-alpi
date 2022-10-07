@@ -1,5 +1,5 @@
 favorites=arcolinux-welcome-app.desktop,archlinux-tweak-tool.desktop,thunar.desktop,xfce4-terminal.desktop
-recent=galculator.desktop,sublime_text.desktop,github-desktop.desktop,logseq-desktop.desktop,7zFM.desktop,rofi-theme-selector.desktop,joplin-desktop.desktop,xdman.desktop,menulibre.desktop,hardinfo.desktop
+recent=gparted.desktop,org.gnome.DiskUtility.desktop,org.kde.filelight.desktop,archlinux-tweak-tool.desktop,arcolinux-welcome-app.desktop,advert-block.desktop,galculator.desktop,sublime_text.desktop,github-desktop.desktop,logseq-desktop.desktop
 button-title=
 button-icon=plr-arcolinux-white
 button-single-row=false

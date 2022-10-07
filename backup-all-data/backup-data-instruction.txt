@@ -1,0 +1,5 @@
+1. Copy "linux-backup" Folder in backup-all-data/1-Structure-copy/ to your backup Location.
+	
+	My Common Location = /run/media/plr/DATA/ 
+
+2. Go "2-Backup-script" Directory & copy "rsync-backup-data" script to your home directory and run the script.
