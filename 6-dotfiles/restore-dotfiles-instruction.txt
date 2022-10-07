@@ -1,0 +1,12 @@
+1.Set up Firefox & Nextcloud & Keepassxc
+
+2.Download "restore-dotfiles.enc" and decrypt and follow the Instrctions
+
+3.Restore dotfiles with gnu stow
+----------------------------------
+
+	1-cd dotfiles
+	2-ls
+	3-stow -nvt ~ * (Simulation Mode)
+	4-stow -vt ~ * (Make Changes) 
+		

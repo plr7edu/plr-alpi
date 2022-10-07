@@ -1,9 +1,0 @@
-#!/bin/bash
-
-tput bold
-echo -e "\e[1;32mInstall fonts list ...\e[1;37m";
-tput sgr0
-paru -S - < fonts_list.txt
-
-
-

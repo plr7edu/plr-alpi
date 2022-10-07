@@ -1,0 +1,8 @@
+#!/bin/bash
+
+tput bold
+echo -e "\e[1;32mInstall pacman applications list ...\e[1;37m";
+tput sgr0
+sudo paru -S - < application-list.txt
+
+

@@ -1,0 +1,11 @@
+1.Copy "root-user-configs-backup" Direcoty to Root User Desktop Direcoty ~/Desktop/ 
+
+2.Run "1.backup-original-configs" 
+It creates root-original-user-config-backup directory in your home directory in root User
+
+3.To Restore root user configs Run "2.restore-configs" Script 
+This remove current configs and copy backup config files 
+(Must Run "1.backup-original.configs" Before run this script")
+
+4."3.backup-configs-now" Script can use to backup currently using settings
+It Creates "backup-time=+date".txt in root-user-configs-backup (Current working directory)

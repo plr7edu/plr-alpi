@@ -1,0 +1,11 @@
+#!/bin/bash
+
+rsync -av Documents/ ../../../../../home/plr/Documents/ &&
+rsync -av Downloads/ ../../../../../home/plr/Downloads/ &&
+rsync -av Music/ ../../../../../home/plr/Music/ &&
+rsync -av Pictures/ ../../../../../home/plr/Pictures/ &&
+rsync -av Videos/ ../../../../../home/plr/Videos/ &&
+rsync -av dotfiles-backup  ../../../../../home/plr/ &&
+rsync -av Repo-backup ../../../../../home/plr/ &&
+rsync -av Applications/ ../../../../../home/plr/Applications/ 
+

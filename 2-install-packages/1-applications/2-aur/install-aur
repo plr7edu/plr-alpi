@@ -1,0 +1,9 @@
+#!/bin/bash
+
+tput bold
+echo -e "\e[1;32mInstall aur applications list ...\e[1;37m";
+tput sgr0
+paru -S - < aur-application-list.txt
+
+
+

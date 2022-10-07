@@ -1,0 +1,8 @@
+#!/bin/bash
+
+tput bold
+echo -e "\e[1;32mInstall gtk themes list ...\e[1;37m";
+tput sgr0
+paru -S - < gtk-themes-list.txt
+
+
