@@ -7,6 +7,6 @@ rsync -av Music/ /run/media/plr/DATA/linux-backup/Music/ &&
 rsync -av Pictures/ /run/media/plr/DATA/linux-backup/Pictures/ &&
 rsync -av Videos/ /run/media/plr/DATA/linux-backup/Videos/ &&
 rsync -av dotfiles/ /run/media/plr/DATA/linux-backup/dotfiles-backup/ &&
-rsync -av Repo/ /run/media/plr/DATA/linux-backup/Repo-backup 
+rsync -av MY-repo/ /run/media/plr/DATA/linux-backup/MY-repo-backup 
  
 

@@ -6,6 +6,6 @@ rsync -av Music/ ../../../../../home/plr/Music/ &&
 rsync -av Pictures/ ../../../../../home/plr/Pictures/ &&
 rsync -av Videos/ ../../../../../home/plr/Videos/ &&
 rsync -av dotfiles-backup  ../../../../../home/plr/ &&
-rsync -av Repo-backup ../../../../../home/plr/ &&
+rsync -av MY-repo-backup ../../../../../home/plr/ &&
 rsync -av Applications/ ../../../../../home/plr/Applications/ 
 
