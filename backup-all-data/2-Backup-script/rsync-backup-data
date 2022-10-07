@@ -1,13 +1,13 @@
 #!/bin/bash
 
-rsync -av Applications/ /run/media/plr/DATA/linux-backup/Applications/ &&
-rsync -av Desktop/ /run/media/plr/DATA/linux-backup/Desktop/ &&
-rsync -av Documents/ /run/media/plr/DATA/linux-backup/Documents/ &&
-rsync -av Downloads/ /run/media/plr/DATA/linux-backup/Downloads/ &&
-rsync -av Music/ /run/media/plr/DATA/linux-backup/Music/ &&
-rsync -av Pictures/ /run/media/plr/DATA/linux-backup/Pictures/ &&
-rsync -av Videos/ /run/media/plr/DATA/linux-backup/Videos/ &&
-rsync -av dotfiles/ /run/media/plr/DATA/linux-backup/dotfiles-backup/ &&
-rsync -av MY-repo/ /run/media/plr/DATA/linux-backup/MY-repo-backup 
+rsync -av --no-links Applications/ /run/media/plr/DATA/linux-backup/Applications/ &&
+rsync -av --no-links Documents/ /run/media/plr/DATA/linux-backup/Documents/ &&
+rsync -av --no-links Desktop/ /run/media/plr/DATA/linux-backup/Desktop/ &&
+rsync -av --no-links Downloads/ /run/media/plr/DATA/linux-backup/Downloads/ &&
+rsync -av --no-links Music/ /run/media/plr/DATA/linux-backup/Music/ &&
+rsync -av --no-links Pictures/ /run/media/plr/DATA/linux-backup/Pictures/ &&
+rsync -av --no-links Videos/ /run/media/plr/DATA/linux-backup/Videos/ &&
+rsync -av --no-links dotfiles/ /run/media/plr/DATA/linux-backup/dotfiles-backup/ &&
+rsync -av --no-links MY-repo/ /run/media/plr/DATA/linux-backup/MY-repo-backup 
  
 
