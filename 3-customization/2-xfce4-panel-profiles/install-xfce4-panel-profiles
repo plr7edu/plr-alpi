@@ -3,6 +3,7 @@
 tput bold
 echo -e "\e[1;34mCopy xfce4-panel-profiles ...\e[1;37m";
 tput sgr0
+sudo mkdir /home/plr/.local/share/xfce4-panel-profiles/
 sudo cp -R xfce4-panel-profiles/* /home/plr/.local/share/xfce4-panel-profiles/
 echo " "
 tput bold

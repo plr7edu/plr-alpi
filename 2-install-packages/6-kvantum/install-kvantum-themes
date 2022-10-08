@@ -3,6 +3,6 @@
 tput bold
 echo -e "\e[1;32mInstall kvantum themes list ...\e[1;37m";
 tput sgr0
-paru -S - < kvantum-themes-list.txt
+paru -S --noconfirm - < kvantum-themes-list.txt
 
 

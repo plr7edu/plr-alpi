@@ -17,7 +17,7 @@ cd -
 
 #Copy & replace file
 echo "Copy & replace edit desktop files..."
-cp -if  edit-desktop/* $config_dir
+sudo cp -if  edit-desktop/* $config_dir
 echo " "
 echo "done."
 

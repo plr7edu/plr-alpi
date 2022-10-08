@@ -3,7 +3,7 @@
 
 Remove =
 
-1-blurbery (Blueberry tray icon)
+1-blurbery,blueman (Blueberry,Blueman tray icon)
 2-Caffeine-ng (Temporarily deactivate the screensaver and sleepmode)
 
 Add = 

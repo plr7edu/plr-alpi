@@ -3,7 +3,7 @@
 tput bold
 echo -e "\e[1;32mInstall icon packs list ...\e[1;37m";
 tput sgr0
-paru -S - < icon-packs-list.txt
+paru -S --noconfirm - < icon-packs-list.txt
 
 
 

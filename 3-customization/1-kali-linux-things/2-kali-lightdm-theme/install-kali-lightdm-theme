@@ -8,7 +8,7 @@ tput sgr0
 
 #Backup orginal config
 cd $config_dir
-cp lightdm.conf lightdm.conf.bak && cp lightdm-gtk-greeter.conf lightdm-gtk-greeter.conf.bak
+sudo cp lightdm.conf lightdm.conf.bak && cp lightdm-gtk-greeter.conf lightdm-gtk-greeter.conf.bak
 echo "Backup Complete."
 echo " "
 
@@ -17,11 +17,11 @@ cd -
 
 #Copy & replace file
 echo "Copy & replace config files..."
-cp -if  config/* $config_dir
+sudo cp -if  config/* $config_dir
 echo " "
 
 #Copy lightdm user data folder
-cp -rf lightdm-images /usr/share
+sudo cp -rf lightdm-images /usr/share
 echo " "
 echo "done."
 

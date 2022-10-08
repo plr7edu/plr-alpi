@@ -3,6 +3,6 @@
 tput bold
 echo -e "\e[1;32mInstall fonts list ...\e[1;37m";
 tput sgr0
-paru -S - < fonts-list.txt
+paru -S --noconfirm - < fonts-list.txt
 
 

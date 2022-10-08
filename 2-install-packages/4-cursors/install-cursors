@@ -3,6 +3,6 @@
 tput bold
 echo -e "\e[1;32mInstall cursor list ...\e[1;37m";
 tput sgr0
-paru -S - < cursor-list.txt
+paru -S --noconfirm - < cursor-list.txt
 
 

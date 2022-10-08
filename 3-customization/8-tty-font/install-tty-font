@@ -17,7 +17,7 @@ cd -
 
 #Copy & replace file
 echo "Copy & replace edit vconsole.conf files..."
-cp -if  edit/vconsole.conf $config_dir
+sudo cp -if  edit/vconsole.conf $config_dir
 echo " "
 echo "done."
 
