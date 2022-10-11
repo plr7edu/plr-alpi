@@ -1,5 +1,5 @@
 favorites=arcolinux-welcome-app.desktop,archlinux-tweak-tool.desktop,thunar.desktop,xfce4-terminal.desktop
-recent=gparted.desktop,org.gnome.DiskUtility.desktop,org.kde.filelight.desktop,archlinux-tweak-tool.desktop,arcolinux-welcome-app.desktop,advert-block.desktop,galculator.desktop,sublime_text.desktop,github-desktop.desktop,logseq-desktop.desktop
+recent=appimagekit_d9efdd0cd894c968606c1984737e1684-picocrypt.desktop,appimagelaunchersettings.desktop,org.bleachbit.BleachBit.desktop,stacer-bin.desktop,arcolinux-reflector-simple.desktop,arcolinux-welcome-app.desktop,lstopo.desktop,spotify.desktop,megasync.desktop,appimagekit_b6c6a71b7911095dc94b18038a77b193-PhotoGIMP.desktop
 button-title=
 button-icon=plr-arcolinux-white
 button-single-row=false

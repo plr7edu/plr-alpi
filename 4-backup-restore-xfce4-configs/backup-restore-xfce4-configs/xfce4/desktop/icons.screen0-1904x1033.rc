@@ -1,9 +1,9 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/plr/Desktop/install-pulseaudio-v1.sh]
+[/home/plr/Desktop/CompTIA ITF+ Training - 39]
 row=2
-col=5
+col=18
 
 [/home/plr/Desktop/Test]
 row=0
@@ -21,17 +21,13 @@ col=7
 row=1
 col=18
 
-[/home/plr/Desktop/CompTIA ITF+ Training - 39]
-row=2
-col=18
+[/home/plr/Desktop/Android SSH.pcv]
+row=1
+col=3
 
 [/home/plr/Desktop/The Complete Web Developer in 2018 Zero to Mastery]
 row=0
 col=8
-
-[/home/plr/Desktop/Samba-configs-backup]
-row=2
-col=1
 
 [/home/plr/Desktop/Android SSH]
 row=0
@@ -40,10 +36,6 @@ col=17
 [AEDAECF4DAECBA2B]
 row=0
 col=1
-
-[0A68-05F9]
-row=2
-col=0
 
 [Trash]
 row=1

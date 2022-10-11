@@ -2,9 +2,9 @@ file:///home/plr/bin
 file:///share/public-files public-files-smb
 file:///home/plr/Applications
 file:///home/plr/dotfiles
-file:///home/plr/Documents/obsidian-vaults
 file:///home/plr/Documents/Syncthing-data
 file:///home/plr/MY-repo
+file:///home/plr/Documents/obsidian
 file:///home/plr/Documents/Nextcloud
 file:///home/plr/Downloads/Megasync%20Downloads
 file:///home/plr/Documents/MY-linux-fonts
@@ -14,5 +14,5 @@ file:///home/plr/Pictures
 file:///home/plr/Music
 file:///home/plr/Videos
 file:///home/plr/Downloads/FTP-share-server
-file:///home/plr/Downloads/repo_download-test
+file:///home/plr/Downloads/test-repo
 file:///home/plr/Documents/MY-data
