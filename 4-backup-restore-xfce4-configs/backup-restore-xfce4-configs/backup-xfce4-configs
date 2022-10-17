@@ -19,10 +19,10 @@ tput sgr0
 
 #Copy new configs
 cd /home/plr/.config/
-cp -R dconf/ gtk-3.0/ Thunar/ xfce4/ ../MY-repo/plr-alpi/4-backup-restore-xfce4-configs/backup-restore-xfce4-configs/
+cp -R dconf/ gtk-3.0/ Thunar/ xfce4/ ../My-Repos/plr-alpi/4-backup-restore-xfce4-configs/backup-restore-xfce4-configs/
 
 #Insert a backup-date txt file
-cd ../MY-repo/plr-alpi/4-backup-restore-xfce4-configs/backup-restore-xfce4-configs/
+cd ../My-Repos/plr-alpi/4-backup-restore-xfce4-configs/backup-restore-xfce4-configs/
 date > "backup-time=$(date +"%Y-%m-%d_%I-%M%p").txt"
 
 
