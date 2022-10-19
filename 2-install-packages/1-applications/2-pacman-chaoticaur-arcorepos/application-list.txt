@@ -49,7 +49,6 @@ timeshift
 spotify
 cryptomator
 balena-etcher
-drawio-desktop
 github-desktop
 gtkhash
 p7zip-gui
@@ -74,3 +73,6 @@ yt-dlp
 audacious
 perl-rename
 logseq-desktop
+feh
+solanum
+gimp
