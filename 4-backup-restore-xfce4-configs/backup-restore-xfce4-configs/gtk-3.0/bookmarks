@@ -1,7 +1,7 @@
 file:///home/plr/bin
-file:///share/public-files public-files-smb
-file:///home/plr/Downloads/FTP-share-server ftp-share-server
-file:///home/plr/Documents/Syncthing-data syncthing-data
+file:///share/public-files-smb
+file:///home/plr/Downloads/ftp-share-server ftp-share-server
+file:///home/plr/Documents/syncthing-data syncthing-data
 file:///home/plr/My-Repos
 file:///home/plr/Documents/My-Data
 file:///home/plr/Documents/MY-linux-fonts My-Linux-Fonts
