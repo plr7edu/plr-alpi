@@ -66,7 +66,7 @@ arcolinux-teamviewer
 xdman
 mugshot
 arcolinux-hblock-git
-marktext-bin
+ghostwriter
 mintstick-git
 dconf-editor
 yt-dlp

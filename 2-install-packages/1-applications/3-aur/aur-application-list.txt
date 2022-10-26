@@ -1,3 +1,4 @@
 puddletag-git
 devilspie2
 stardict-oald
+marktext-bin
