@@ -8,6 +8,8 @@ rsync -av --no-links Music/ /run/media/plr/DATA/linux-backup/Music/ &&
 rsync -av --no-links Pictures/ /run/media/plr/DATA/linux-backup/Pictures/ &&
 rsync -av --no-links Videos/ /run/media/plr/DATA/linux-backup/Videos/ &&
 rsync -av --no-links dotfiles/ /run/media/plr/DATA/linux-backup/dotfiles-backup/ &&
-rsync -av --no-links MY-repo/ /run/media/plr/DATA/linux-backup/MY-repo-backup 
+rsync -av --no-links My-Repos/ /run/media/plr/DATA/linux-backup/My-Repos-backup &&
+rsync -av --no-links firefox-backup/ /run/media/plr/DATA/linux-backup/firefox-backup/ 
+
  
 

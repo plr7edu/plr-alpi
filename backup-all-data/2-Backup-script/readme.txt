@@ -1,0 +1,1 @@
+Copy "rsync-backup-data" script to your home directory

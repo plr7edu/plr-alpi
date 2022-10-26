@@ -1,0 +1,12 @@
+#!/bin/bash
+
+tput bold
+echo -e "\e[1;32mRestore firefox Backup zip ...\e[1;37m";
+tput sgr0
+cp firefox-browser-profile.tar.bz2 ../
+rm -rf ~/.mozilla
+tar -xvf firefox-browser-profile.tar.bz2
+rm -rf firefox-browser-profile.tar.bz2
+
+
+
