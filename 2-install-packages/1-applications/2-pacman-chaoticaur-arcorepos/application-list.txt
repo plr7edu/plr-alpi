@@ -76,3 +76,5 @@ logseq-desktop
 feh
 solanum
 gimp
+smplayer
+smplayer-themes
