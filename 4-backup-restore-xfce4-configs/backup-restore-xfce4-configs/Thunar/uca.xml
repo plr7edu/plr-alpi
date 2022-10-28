@@ -26,7 +26,7 @@
 	<name>Search with catfish</name>
 	<unique-id>1489089852658523-2</unique-id>
 	<command>catfish --path=$f$d</command>
-	<description></description>
+	<description>Search files with catfish</description>
 	<patterns>*</patterns>
 	<directories/>
 </action>
@@ -35,7 +35,7 @@
 	<name>Compare</name>
 	<unique-id>1492232362549799-1</unique-id>
 	<command>meld %F</command>
-	<description></description>
+	<description>Compare files with meld</description>
 	<patterns>*</patterns>
 	<directories/>
 	<other-files/>
@@ -45,8 +45,8 @@
 	<icon>cs-startup-programs</icon>
 	<name>Run</name>
 	<unique-id>1526630606202525-4</unique-id>
-	<command>urxvt -e %f</command>
-	<description></description>
+	<command>alacritty -e %f</command>
+	<description>Run executable file</description>
 	<patterns>*</patterns>
 	<other-files/>
 	<text-files/>
@@ -56,7 +56,7 @@
 	<name>Open folder as root</name>
 	<unique-id>1493475601060449-3</unique-id>
 	<command>pkexec thunar %f</command>
-	<description></description>
+	<description>open thunar with root permission</description>
 	<patterns>*</patterns>
 	<directories/>
 </action>
@@ -105,6 +105,29 @@
 	<description>Make a file execuble</description>
 	<patterns>*</patterns>
 	<other-files/>
+	<text-files/>
+</action>
+<action>
+	<icon>p7zip</icon>
+	<name>Open with 7zip</name>
+	<unique-id>1666927199013281-1</unique-id>
+	<command>7zFM %f</command>
+	<description>Open with 7zip-GUI</description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>Edit-as-root</icon>
+	<name>Edit as Root</name>
+	<unique-id>1666929305565569-1</unique-id>
+	<command>gksu geany %f</command>
+	<description>Edit with root permissions</description>
+	<patterns>*</patterns>
 	<text-files/>
 </action>
 </actions>
