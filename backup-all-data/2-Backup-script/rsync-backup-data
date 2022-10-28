@@ -11,7 +11,9 @@ rsync -av --no-links dotfiles/ /run/media/plr/DATA/linux-backup/dotfiles-backup/
 rsync -av --no-links My-Repos/ /run/media/plr/DATA/linux-backup/My-Repos-backup &&
 rsync -av --no-links firefox-backup/ /run/media/plr/DATA/linux-backup/firefox-backup/ &&
 rsync -av --no-links .ssh/ /run/media/plr/DATA/linux-backup/ssh-backup/ &&
-rsync -av --no-links .mozilla/ /run/media/plr/DATA/linux-backup/firefox-backup/ 
+rsync -av --no-links .mozilla/ /run/media/plr/DATA/linux-backup/firefox-backup/ &&
+rsync -av --no-links firefox-backup-manual/ /run/media/plr/DATA/linux-backup/firefox-backup-manual/ &&
+rsync -av --no-links ssh-gpg-backup-manual/ /run/media/plr/DATA/linux-backup/ssh-gpg-backup-manual/ 
 
 
  
