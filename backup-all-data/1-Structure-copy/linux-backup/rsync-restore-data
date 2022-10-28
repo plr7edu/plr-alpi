@@ -12,7 +12,6 @@ rsync -av Applications/ ../../../../../home/plr/Applications/ &&
 rsync -av firefox-backup ../../../../../home/plr/ &&
 rsync -av firefox-backup-manual ../../../../../home/plr/ &&
 rsync -av ssh-backup ../../../../../home/plr/ &&
-rsync -av ssh-backup-manual ../../../../../home/plr/ &&
 rsync -av ssh-gpg-backup-manual ../../../../../home/plr/ 
 
 
