@@ -78,3 +78,4 @@ solanum
 gimp
 smplayer
 smplayer-themes
+lightdm-settings
