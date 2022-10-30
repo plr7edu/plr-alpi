@@ -1,4 +1,3 @@
-termite
 urxvt-fullscreen
 urxvt-resize-font-git
 urxvt-perls

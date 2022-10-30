@@ -1,0 +1,29 @@
+1.Mode + I and go Session and Startup > Application Autostart
+--------------------------------------------------------------
+
+Remove =
+
+1-blurbery,blueman (Blueberry,Blueman tray icon)
+2-Caffeine-ng (Temporarily deactivate the screensaver and sleepmode)
+
+Add = 
+
+1-Plank (Plank Dock) = Command : plank / Onlogin
+2-devilspie2 (Strawberry set to 4 th workspace) = Command : devilspie2 music /onlogin
+
+2.Enable bluetooth 
+---------------------
+
+$ sudo systemctl start bluetooth
+
+3.Fix Sinhala fonts issue 
+---------------------------
+
+1-Open Font-Manager and Disable these Sinhala fonts
+
+	Noto Sans Sinhala
+	Noto Sans Sinhala UI
+	NOto Serif Sinhala
+
+2-Now install fonts in "Noto Sans Sinhala" folder using font-manager
+3-Logout and log back in

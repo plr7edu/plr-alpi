@@ -1,1 +1,0 @@
-1. Go your ("linux_backup"-+date) Folder in your portable drive and run rsync-resotre-data

@@ -1,1 +1,2 @@
 xcursor-human
+whitesur-cursor-theme-git
