@@ -1,6 +1,10 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/plr/Desktop/ssh-scripts]
+row=3
+col=0
+
 [/home/plr/Desktop/Images for notes]
 row=0
 col=10

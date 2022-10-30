@@ -122,7 +122,7 @@
 	<video-files/>
 </action>
 <action>
-	<icon>Edit-as-root</icon>
+	<icon>edit-as-root</icon>
 	<name>Edit as Root</name>
 	<unique-id>1666929305565569-1</unique-id>
 	<command>gksu geany %f</command>
