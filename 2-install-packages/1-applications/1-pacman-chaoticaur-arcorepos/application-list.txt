@@ -3,7 +3,6 @@ bitwarden
 caffeine-ng
 catfish
 code
-engrampa
 evince
 exa
 filelight

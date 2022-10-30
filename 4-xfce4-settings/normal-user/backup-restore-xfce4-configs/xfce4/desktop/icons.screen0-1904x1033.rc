@@ -1,17 +1,13 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/plr/Desktop/ssh-scripts]
-row=3
-col=0
-
 [/home/plr/Desktop/Images for notes]
 row=0
-col=10
+col=9
 
 [/home/plr/Desktop/Android SSH]
 row=0
-col=18
+col=17
 
 [/home/plr/Desktop/CompTIA ITF+ Training - 39]
 row=2
@@ -19,6 +15,10 @@ col=18
 
 [/home/plr/Desktop/Full Stack Development]
 row=3
+col=18
+
+[/home/plr/Desktop/test-linux-applications-list]
+row=0
 col=18
 
 [AEDAECF4DAECBA2B]
