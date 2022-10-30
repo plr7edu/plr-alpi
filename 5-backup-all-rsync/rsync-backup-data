@@ -14,6 +14,8 @@ rsync -av --no-links .config/obsidian/ /run/media/plr/DATA/linux-backup/.config/
 rsync -av --no-links .config/Logseq/ /run/media/plr/DATA/linux-backup/.config/ &&
 rsync -av --no-links .config/joplin-desktop/ /run/media/plr/DATA/linux-backup/.config/ &&
 rsync -av --no-links .config/joplin/ /run/media/plr/DATA/linux-backup/.config/ &&
+rsync -av --no-links .config/google-chrome/ /run/media/plr/DATA/linux-backup/.config/ &&
+rsync -av --no-links .config/chromium/ /run/media/plr/DATA/linux-backup/.config/ &&
 rsync -av --no-links My-Repos/ /run/media/plr/DATA/linux-backup/ &&
 rsync -av --no-links dotfiles/ /run/media/plr/DATA/linux-backup/ &&
 
