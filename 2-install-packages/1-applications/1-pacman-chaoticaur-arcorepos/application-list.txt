@@ -50,7 +50,7 @@ cryptomator
 balena-etcher
 github-desktop
 gtkhash
-peazip-qt5
+peazip-gtk2-bin
 qdirstat
 ventoy-bin
 hardinfo-gtk3
@@ -79,3 +79,4 @@ smplayer
 smplayer-themes
 lightdm-settings
 pacman-contrib
+conky-lua-archers
