@@ -80,3 +80,4 @@ smplayer-themes
 lightdm-settings
 pacman-contrib
 conky-lua-archers
+grsync
