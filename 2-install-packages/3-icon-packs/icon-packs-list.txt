@@ -1,3 +1,5 @@
 papirus-icon-theme
 tela-icon-theme
 flat-remix-git
+zafiro-icon-theme
+colloid-icon-theme-git
