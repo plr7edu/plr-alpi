@@ -3,7 +3,7 @@
 tput bold
 echo -e "\e[1;31mRemove unwanted packages in arcolinuxd ...\e[1;37m";
 tput sgr0
-sudo paru -Rn --noconfirm - < remove-packages-list.txt
+sudo paru -Rns --noconfirm - < remove-packages-list.txt
 
 
 
