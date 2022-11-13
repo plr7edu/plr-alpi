@@ -1,5 +1,5 @@
 favorites=arcolinux-welcome-app.desktop,archlinux-tweak-tool.desktop,thunar.desktop,xfce4-terminal.desktop
-recent=xfce4-mime-settings.desktop,Sunamu.desktop,org.gnome.FontManager.desktop,xfce-ui-settings.desktop,archlinux-tweak-tool.desktop,blueman-manager.desktop,blueman-adapters.desktop,xfce-wm-settings.desktop,xfce-mouse-settings.desktop,xdman.desktop
+recent=Sunamu.desktop,github-desktop.desktop,xfburn.desktop,galculator.desktop,xfce4-taskmanager.desktop,org.gnome.seahorse.Application.desktop,xfce-mouse-settings.desktop,peazip.desktop
 button-title=
 button-icon=plr-arcolinux-white
 button-single-row=false
@@ -25,8 +25,8 @@ stay-on-focus-out=false
 profile-shape=0
 confirm-session-command=true
 menu-width=435
-menu-height=596
-menu-opacity=80
+menu-height=585
+menu-opacity=95
 command-settings=xfce4-settings-manager
 show-command-settings=true
 command-lockscreen=archlinux-logout

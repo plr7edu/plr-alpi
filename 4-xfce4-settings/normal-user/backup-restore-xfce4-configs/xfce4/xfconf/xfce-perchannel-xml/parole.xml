@@ -5,7 +5,7 @@
     <property name="font" type="string" value="Sans Bold 20"/>
   </property>
   <property name="folders" type="empty">
-    <property name="last-used-media" type="string" value="/home/plr/Downloads/Video"/>
+    <property name="last-used-media" type="string" value="/home/plr/Downloads"/>
   </property>
   <property name="window" type="empty">
     <property name="maximized" type="bool" value="true"/>
@@ -13,6 +13,6 @@
     <property name="height" type="int" value="1018"/>
   </property>
   <property name="audio" type="empty">
-    <property name="volume" type="int" value="50"/>
+    <property name="volume" type="int" value="80"/>
   </property>
 </channel>
