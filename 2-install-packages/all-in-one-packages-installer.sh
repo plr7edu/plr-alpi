@@ -47,7 +47,6 @@ catfish
 code
 evince
 exa
-filelight
 firefox
 flameshot
 foliate
