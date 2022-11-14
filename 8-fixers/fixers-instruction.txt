@@ -27,3 +27,14 @@ $ sudo systemctl start bluetooth
 
 2-Now install fonts in "Noto Sans Sinhala" folder using font-manager
 3-Logout and log back in
+
+4. Icons Pack Icons Fix
+--------------------------
+
+1. Go "icons-pack-fixers" directory
+
+2. Open prefer icons pack directory
+
+3. Go "/usr/share/applications/" and backup orginal desktop files to "original-desktop-files"
+
+4. Go "mod-desktop-files" directory and copy and replace all desktop files to "/usr/share/applications/"

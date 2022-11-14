@@ -82,3 +82,8 @@ pacman-contrib
 conky-lua-archers
 grsync
 gnome-clocks
+qemu
+virt-manager
+ebtables
+
+
