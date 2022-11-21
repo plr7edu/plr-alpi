@@ -1,4 +1,6 @@
 puddletag-git
 devilspie2
 stardict-oald
-sunamu-bin 
+sunamu-bin
+logseq-desktop-bin
+joplin-appimage

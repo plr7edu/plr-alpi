@@ -95,7 +95,6 @@ peazip-gtk2-bin
 qdirstat
 ventoy-bin
 hardinfo-gtk3
-joplin-desktop
 megasync-bin
 google-chrome
 onlyoffice-bin
@@ -112,7 +111,6 @@ dconf-editor
 yt-dlp
 audacious
 perl-rename
-logseq-desktop
 feh
 solanum
 gimp
@@ -126,13 +124,15 @@ gnome-clocks
 qemu
 virt-manager
 ebtables
-
+authenticator
 
 #AUR-------------------------------------------------------------------------
 puddletag-git
 devilspie2
 stardict-oald
-sunamu-bin 
+sunamu-bin
+logseq-desktop-bin
+joplin-appimage
 
 #Fonts-----------------------------------------------------------------------
 apple-fonts
