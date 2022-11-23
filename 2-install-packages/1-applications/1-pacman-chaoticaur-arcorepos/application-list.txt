@@ -83,5 +83,6 @@ qemu
 virt-manager
 ebtables
 authenticator
+tldr
 
 

@@ -125,6 +125,7 @@ qemu
 virt-manager
 ebtables
 authenticator
+tldr
 
 #AUR-------------------------------------------------------------------------
 puddletag-git
