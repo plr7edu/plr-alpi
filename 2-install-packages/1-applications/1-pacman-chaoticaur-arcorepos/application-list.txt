@@ -45,9 +45,6 @@ signal-desktop
 filezilla
 timeshift
 spotify
-cryptomator
-balena-etcher
-github-desktop
 gtkhash
 peazip-gtk2-bin
 qdirstat

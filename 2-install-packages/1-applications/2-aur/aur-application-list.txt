@@ -4,3 +4,5 @@ stardict-oald
 sunamu-bin
 logseq-desktop-bin
 joplin-appimage
+cryptomator-bin
+github-desktop-bin

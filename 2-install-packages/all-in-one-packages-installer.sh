@@ -87,9 +87,6 @@ signal-desktop
 filezilla
 timeshift
 spotify
-cryptomator
-balena-etcher
-github-desktop
 gtkhash
 peazip-gtk2-bin
 qdirstat
@@ -134,6 +131,8 @@ stardict-oald
 sunamu-bin
 logseq-desktop-bin
 joplin-appimage
+cryptomator-bin
+github-desktop-bin
 
 #Fonts-----------------------------------------------------------------------
 apple-fonts
