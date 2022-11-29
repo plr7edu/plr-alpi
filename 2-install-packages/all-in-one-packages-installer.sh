@@ -146,6 +146,7 @@ nerd-fonts-hack
 nerd-fonts-jetbrains-mono
 ttf-cascadia-code
 ttf-comic-mono-git
+ttf-ubuntumono-nerd
 
 #Icon-Packs------------------------------------------------------------------
 papirus-icon-theme
