@@ -5,6 +5,6 @@ Comment=A secure and free password manager for all of your devices.
 Exec=bitwarden-desktop
 Terminal=false
 Type=Application
-Icon=/home/plr/.icons/bitwarden.png
+Icon=/home/plr/.icons/Mac-style-icons/bitwarden.png
 Categories=Utility;
 StartupWMClass=Bitwarden

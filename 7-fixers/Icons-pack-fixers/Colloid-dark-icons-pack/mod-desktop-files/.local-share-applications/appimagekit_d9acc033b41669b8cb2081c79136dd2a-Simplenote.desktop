@@ -1,0 +1,38 @@
+[Desktop Entry]
+Name=Simplenote (2.21.0.25251)
+Exec=/home/plr/Applications/Simplenote_9e6ee9cd46e2a263c89780a90c6b65c7.AppImage --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=/home/plr/.icons/Mac-style-icons/simplenote.png
+StartupWMClass=Simplenote
+X-AppImage-Version=2.21.0.25251
+Comment=Simplenote is an easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices for free.
+GenericName=Note Taking Application
+StartupNotify=true
+Categories=Utility;
+MimeType=x-scheme-handler/simplenote;
+
+TryExec=/home/plr/Applications/Simplenote_9e6ee9cd46e2a263c89780a90c6b65c7.AppImage
+X-AppImage-Old-Icon=simplenote
+X-AppImage-Old-Name=Simplenote
+X-AppImage-Identifier=d9acc033b41669b8cb2081c79136dd2a
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2022-05-30 05:04:12 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/remove "/home/plr/Applications/Simplenote_9e6ee9cd46e2a263c89780a90c6b65c7.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

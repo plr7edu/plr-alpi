@@ -14,6 +14,7 @@
       <value type="string" value="Discord Canary"/>
       <value type="string" value="Dropbox"/>
       <value type="string" value="Electron"/>
+      <value type="string" value="espanso"/>
       <value type="string" value="evolution"/>
       <value type="string" value="FileZilla"/>
       <value type="string" value="Firefox"/>
@@ -24,6 +25,7 @@
       <value type="string" value="MEGAsync"/>
       <value type="string" value="Museeks"/>
       <value type="string" value="notify-send"/>
+      <value type="string" value="org.freedesktop.network-manager-applet"/>
       <value type="string" value="org.gnome.Software"/>
       <value type="string" value="org.qbittorrent.qBittorrent"/>
       <value type="string" value="org.xfce.Thunar"/>
@@ -38,6 +40,7 @@
       <value type="string" value="Thunar"/>
       <value type="string" value="Transmission"/>
       <value type="string" value="thunar-volman"/>
+      <value type="string" value="tor-browser"/>
       <value type="string" value="ulauncher"/>
       <value type="string" value="Update Manager"/>
       <value type="string" value="Variety"/>

@@ -1,0 +1,34 @@
+#!/bin/bash
+
+tput setaf 3
+echo "###############################################################################"
+echo "##################  Copy Desktop Files ... "  
+echo "###############################################################################"
+echo
+
+main_desktop_dir=/usr/share/applications/
+local_desktop_dir=/home/plr/.local/share/applications/
+
+
+#Copy Main Desktop Files
+sudo cp -rf usr-share-applications/* $main_desktop_dir
+echo " "
+
+
+#Copy Local Desktop Files
+sudo cp -rf .local-share-applications/* $local_desktop_dir
+echo " "
+
+
+###############################################################################
+echo "Done"
+###############################################################################
+
+
+
+
+
+
+
+
+

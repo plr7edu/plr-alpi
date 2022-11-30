@@ -10,3 +10,5 @@ nerd-fonts-jetbrains-mono
 ttf-cascadia-code
 ttf-comic-mono-git
 ttf-ubuntumono-nerd
+otf-fira-mono
+otf-fira-sans

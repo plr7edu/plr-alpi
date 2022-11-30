@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Joplin
+Exec=env DESKTOPINTEGRATION=0 APPIMAGELAUNCHER_DISABLE=1 /usr/bin/joplin-desktop --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=@joplinapp-desktop
+StartupWMClass=Joplin
+X-AppImage-Version=2.8.8
+MimeType=x-scheme-handler/joplin;
+Comment=Joplin for Desktop
+Categories=Office;

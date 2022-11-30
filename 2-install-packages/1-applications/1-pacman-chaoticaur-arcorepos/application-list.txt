@@ -81,5 +81,6 @@ virt-manager
 ebtables
 authenticator
 tldr
+tor-browser 
 
 

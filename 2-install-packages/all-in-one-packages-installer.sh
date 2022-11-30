@@ -123,6 +123,7 @@ virt-manager
 ebtables
 authenticator
 tldr
+tor-browser 
 
 #AUR-------------------------------------------------------------------------
 puddletag-git
@@ -147,6 +148,8 @@ nerd-fonts-jetbrains-mono
 ttf-cascadia-code
 ttf-comic-mono-git
 ttf-ubuntumono-nerd
+otf-fira-mono
+otf-fira-sans
 
 #Icon-Packs------------------------------------------------------------------
 papirus-icon-theme
