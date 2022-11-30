@@ -14,7 +14,7 @@ Colloid-dark
 
 ## Default Font = 
 
-Noto Sans Display Regular 
+Fira Sans Book 11
 
 ## Default Monospace Font = 
 
