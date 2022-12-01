@@ -134,6 +134,7 @@ logseq-desktop-bin
 joplin-appimage
 cryptomator-bin
 github-desktop-bin
+ibus-helakuru
 
 #Fonts-----------------------------------------------------------------------
 apple-fonts
