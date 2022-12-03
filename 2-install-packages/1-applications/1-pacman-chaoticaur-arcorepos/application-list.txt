@@ -81,6 +81,8 @@ virt-manager
 ebtables
 authenticator
 tldr
-tor-browser 
+tor-browser
+glow
+fzf
 
 

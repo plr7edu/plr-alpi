@@ -124,6 +124,8 @@ ebtables
 authenticator
 tldr
 tor-browser 
+glow
+fzf
 
 #AUR-------------------------------------------------------------------------
 puddletag-git
