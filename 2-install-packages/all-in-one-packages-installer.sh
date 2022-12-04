@@ -153,6 +153,7 @@ ttf-comic-mono-git
 ttf-ubuntumono-nerd
 otf-fira-mono
 otf-fira-sans
+ttf-roboto-mono
 
 #Icon-Packs------------------------------------------------------------------
 papirus-icon-theme
