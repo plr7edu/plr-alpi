@@ -116,4 +116,18 @@
 	<patterns>*</patterns>
 	<text-files/>
 </action>
+<action>
+	<icon>dialog-information</icon>
+	<name>Bulk Rename</name>
+	<unique-id>1669946365838088-1</unique-id>
+	<command>Thunar -B %U</command>
+	<description>Rename Multiple Files.</description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
 </actions>
