@@ -1,0 +1,7 @@
+[Added Associations]
+application/x-desktop=sublime_text.desktop;
+text/x-matlab=sublime_text.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;
+
+[Default Applications]
+application/x-shellscript=org.xfce.mousepad.desktop
