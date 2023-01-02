@@ -29,6 +29,7 @@
       <property name="&lt;Super&gt;r" type="empty">
         <property name="startup-notify" type="empty"/>
       </property>
+      <property name="&lt;Alt&gt;&lt;Super&gt;s" type="empty"/>
     </property>
     <property name="custom" type="empty">
       <property name="&lt;Alt&gt;F2" type="empty">
@@ -71,6 +72,9 @@
       <property name="&lt;Alt&gt;q" type="string" value="/home/plr/bin/qbrofi"/>
       <property name="Super_R" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="&lt;Super&gt;n" type="string" value="xfdesktop --next"/>
+      <property name="Page_Up" type="string" value="playerctl next"/>
+      <property name="Page_Down" type="string" value="playerctl previous"/>
+      <property name="Pause" type="string" value="playerctl play-pause"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
@@ -129,8 +133,8 @@
       <property name="&lt;Primary&gt;F12" type="empty"/>
       <property name="&lt;Super&gt;KP_Left" type="empty"/>
       <property name="&lt;Super&gt;KP_Right" type="empty"/>
-      <property name="&lt;Super&gt;KP_Up" type="empty"/>
       <property name="&lt;Super&gt;KP_Down" type="empty"/>
+      <property name="&lt;Super&gt;KP_Up" type="empty"/>
       <property name="&lt;Super&gt;KP_Page_Up" type="empty"/>
       <property name="&lt;Super&gt;KP_Home" type="empty"/>
       <property name="&lt;Super&gt;KP_End" type="empty"/>

@@ -14,7 +14,7 @@
   <property name="misc-single-click" type="bool" value="false"/>
   <property name="misc-show-delete-action" type="bool" value="true"/>
   <property name="misc-full-path-in-title" type="bool" value="true"/>
-  <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
+  <property name="last-sort-column" type="string" value="THUNAR_COLUMN_TYPE"/>
   <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
   <property name="last-side-pane" type="string" value="ThunarShortcutsPane"/>
   <property name="last-details-view-visible-columns" type="string" value="THUNAR_COLUMN_DATE_MODIFIED,THUNAR_COLUMN_NAME,THUNAR_COLUMN_SIZE,THUNAR_COLUMN_TYPE"/>
@@ -23,4 +23,6 @@
   <property name="last-image-preview-visible" type="bool" value="true"/>
   <property name="last-location-bar" type="string" value="ThunarLocationEntry"/>
   <property name="last-splitview-separator-position" type="int" value="443"/>
+  <property name="misc-transfer-verify-file" type="string" value="THUNAR_VERIFY_FILE_MODE_ALWAYS"/>
+  <property name="misc-transfer-use-partial" type="string" value="THUNAR_USE_PARTIAL_MODE_REMOTE"/>
 </channel>

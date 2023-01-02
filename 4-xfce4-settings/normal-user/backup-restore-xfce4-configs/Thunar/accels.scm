@@ -123,6 +123,7 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/preferences" "")
 ; (gtk_accel_path "<Actions>/ThunarActionManager/delete" "")
 ; (gtk_accel_path "<Actions>/ThunarBookmarks/fa545792e2a43fcee2b48b3004db9cf2" "")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/e0fe883303f207278c33841484889284" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-side-pane-tree" "<Primary>e")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-file-system" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/make-link" "")

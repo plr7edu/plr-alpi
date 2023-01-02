@@ -1,14 +1,14 @@
 ## Theme (Style) = 
 
-Appearance = Matcha-dark-azul
+Appearance - Style = Matcha-dark-azul
 
-Window Manager = Matcha-dark-azul
+Window Manager -Style = Matcha-dark-azul
 
 ---
 
 ## Icons Theme = 
 
-Colloid-dark
+Surfin Breeze Dark
 
 ---
 
