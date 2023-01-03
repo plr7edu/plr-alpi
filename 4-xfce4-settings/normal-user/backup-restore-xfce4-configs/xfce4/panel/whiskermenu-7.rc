@@ -1,5 +1,5 @@
 favorites=arcolinux-welcome-app.desktop,archlinux-tweak-tool.desktop,thunar.desktop,xfce4-terminal.desktop
-recent=xdman.desktop,gpa.desktop,arcolinux-welcome-app.desktop,thorium.desktop,virt-manager.desktop,xfce4-terminal.desktop,xfce-ui-settings.desktop,lightdm-settings.desktop,thunar.desktop,yad-icon-browser.desktop
+recent=xfce-keyboard-settings.desktop,appimagekit_d0dbfdc6b159c7824df9dcc23bf5eef1-YTDownloader.desktop,xfce-ui-settings.desktop,xdman.desktop,gpa.desktop,arcolinux-welcome-app.desktop,thorium.desktop,virt-manager.desktop,xfce4-terminal.desktop,lightdm-settings.desktop
 button-title=
 button-icon=plr-arcolinux-white
 button-single-row=false
