@@ -126,6 +126,10 @@ tldr
 tor-browser 
 glow
 fzf
+python-pip
+npm
+uvicorn
+
 
 #AUR-------------------------------------------------------------------------
 puddletag-git
