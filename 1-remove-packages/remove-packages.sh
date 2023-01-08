@@ -26,6 +26,8 @@
   sudo paru -Rcns rxvt-unicode --noconfirm
   sudo paru -Rcns xterm --noconfirm
   sudo paru -Rcns termite --noconfirm
+  sudo paru -Rcns yay-bin --noconfirm
+  
   
   echo
   tput setaf 1
