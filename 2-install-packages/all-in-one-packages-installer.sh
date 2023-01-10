@@ -129,7 +129,7 @@ fzf
 python-pip
 npm
 uvicorn
-
+foxitreader
 
 #AUR-------------------------------------------------------------------------
 puddletag-git

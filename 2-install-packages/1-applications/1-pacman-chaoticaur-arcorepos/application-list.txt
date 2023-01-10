@@ -87,4 +87,5 @@ fzf
 python-pip
 npm
 uvicorn
+foxitreader
 
