@@ -130,6 +130,7 @@ python-pip
 npm
 uvicorn
 foxitreader
+xclip
 
 #AUR-------------------------------------------------------------------------
 puddletag-git

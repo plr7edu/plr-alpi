@@ -88,4 +88,5 @@ python-pip
 npm
 uvicorn
 foxitreader
+xclip
 
